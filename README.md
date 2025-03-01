@@ -34,7 +34,6 @@
 <div align="center" style="margin: 20px 0;">
   <a href="/">
     <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
-</a>
 <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/ZXSON/ISLAM-MD&branch=main&name=islam&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]=ISLAM-MD&env[OWNER_NUMBER]=923085688908%3B%E2%9D%A3%EF%B8%8FISLAM+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=all&env[DATABASE_URL]=&env[ANTI_LINK]=true&env[AutoReaction]=false&env[STATUSVIEW]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+islam+bot&env[REJECTSCALLS]=false&env[CALLMSG]=For+now+calls+are+restricted+by+my+owner&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[AUTO_APPROVE_USERS]=92%2C880&env[PACK_NAME]=Islam%F0%9F%92%96&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_&env[STATUSVIEW]=true&env[StatusEmojies]=♥️%2C🤗%2C❤️%2C💞%2C❣️%2C💙%2C💛%2C🤍%2C💚%2C😍%2C🥰%2C💝%2C💖%2C💗%2C💓%2C💞%2C💕%2C❣️%2C💘%2C💟%2C🖤%2C🤎%2C💜%2C💫%2C🌸">
     <img src="https://img.shields.io/badge/KOYEB-000000?style=for-the-badge&logo=koyeb" style="vertical-align: middle; margin-right: 10px;">
 </a>
